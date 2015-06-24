@@ -1,0 +1,16 @@
+{
+"resources":
+	[
+        {"name":"playbg","type":"image","url":"assets/playbg.jpg"},
+        {"name":"scoreBoard","type":"image","url":"assets/scoreBoard.png"},
+        {"name":"noticAll","type":"sheet","url":"assets/noticUI.json"},
+        {"name":"biaoQing","type":"sheet","url":"assets/biaoqing.json"},
+        {"name":"diceSource","type":"sheet","url":"assets/dicesource.json"},
+        {"name":"startsound","type":"sound","url":"assets/sound.mp3"}
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"playbg,scoreBoard,noticAll,biaoQing,diceSource,startsound"}
+	]
+}

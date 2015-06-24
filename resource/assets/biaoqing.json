@@ -1,0 +1,75 @@
+{
+    "file": "biaoqing.png",
+    "frames": {
+        "biaoqin00": {
+            "x": 110,
+            "y": 139,
+            "w": 109,
+            "h": 138,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 109,
+            "sourceH": 138
+        },
+        "biaoqin01": {
+            "x": 110,
+            "y": 278,
+            "w": 109,
+            "h": 138,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 109,
+            "sourceH": 138
+        },
+        "biaoqin02": {
+            "x": 220,
+            "y": 0,
+            "w": 109,
+            "h": 140,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 109,
+            "sourceH": 140
+        },
+        "biaoqin03": {
+            "x": 220,
+            "y": 141,
+            "w": 109,
+            "h": 138,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 109,
+            "sourceH": 138
+        },
+        "biaoqin04": {
+            "x": 0,
+            "y": 0,
+            "w": 110,
+            "h": 138,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 110,
+            "sourceH": 138
+        },
+        "biaoqin05": {
+            "x": 0,
+            "y": 278,
+            "w": 109,
+            "h": 138,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 109,
+            "sourceH": 138
+        },
+        "biaoqin06": {
+            "x": 0,
+            "y": 139,
+            "w": 109,
+            "h": 138,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 109,
+            "sourceH": 138
+        }
+    }
+}

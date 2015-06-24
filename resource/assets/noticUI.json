@@ -1,0 +1,25 @@
+{
+    "file": "noticUI.png",
+    "frames": {
+        "notiFreBtn": {
+            "x": 0,
+            "y": 81,
+            "w": 215,
+            "h": 80,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 215,
+            "sourceH": 80
+        },
+        "reStartBtn": {
+            "x": 0,
+            "y": 0,
+            "w": 215,
+            "h": 80,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 215,
+            "sourceH": 80
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "file": "Sprites.png",
+    "frames": {
+        "dice1": {
+            "x": 101,
+            "y": 101,
+            "w": 100,
+            "h": 100,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 100,
+            "sourceH": 100
+        },
+        "dice2": {
+            "x": 101,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 100,
+            "sourceH": 100
+        },
+        "dice3": {
+            "x": 101,
+            "y": 202,
+            "w": 100,
+            "h": 100,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 100,
+            "sourceH": 100
+        },
+        "dice4": {
+            "x": 0,
+            "y": 101,
+            "w": 100,
+            "h": 100,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 100,
+            "sourceH": 100
+        },
+        "dice5": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 100,
+            "sourceH": 100
+        },
+        "dice6": {
+            "x": 0,
+            "y": 202,
+            "w": 100,
+            "h": 100,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 100,
+            "sourceH": 100
+        }
+    }
+}
